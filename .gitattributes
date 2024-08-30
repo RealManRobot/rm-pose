@@ -1,0 +1,5 @@
+# 设置 *.py 文件在 Git 中使用 LF 换行符
+*.py text eol=lf
+
+# 设置其他文件在 Git 中使用 CRLF 换行符
+* text eol=crlf
